@@ -5,7 +5,7 @@
 I have been working as Angulard devloper scence 2 years , I have also have knowledge on other technologies like 
 
 
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/django.png"/> <img src="https://img.icons8.com/doodle/48/000000/svetle.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/webpack.png"/> <img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" style="height:48px;width:48px;"/>
+> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/django.png"/> <img src="https://img.icons8.com/doodle/48/000000/svetle.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/webpack.png"/> <img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" style="height:48px;width:48px;"/>
 
 
 
@@ -19,7 +19,7 @@ I have been working as Angulard devloper scence 2 years , I have also have knowl
 
 find me on 
 
->  [![alt-text](https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png)](www.linkedin.com/in/mithu-lohar-69a95717a)
+> ![alt-text](https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png) [MITHU LOHAR](www.linkedin.com/in/mithu-lohar-69a95717a)
 
 
 
