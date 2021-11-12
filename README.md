@@ -19,7 +19,7 @@ I have been working as Angulard devloper scence 2 years , I have also have knowl
 
 find me on 
 
-> ![alt-text](https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png) [MITHU LOHAR](https://www.linkedin.com/in/mithu-lohar-69a95717a)
+>  [![alt-text](https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png)](https://www.linkedin.com/in/mithu-lohar-69a95717a)
 
 
 
