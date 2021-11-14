@@ -1,4 +1,4 @@
-# Hi I'm Mithu Lohar :beetle: :computer: :beetle:  <img src="https://img.icons8.com/color/48/000000/angularjs.png" style="height:28px;width:28px;"/>
+# Hi I'm Mithu Lohar :computer: :eyeglasses:  <img src="https://img.icons8.com/color/48/000000/angularjs.png" style="height:28px;width:28px;"/>
 
 ![alt-text](https://images8.alphacoders.com/115/1156488.png)
 
