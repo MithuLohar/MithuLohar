@@ -16,9 +16,9 @@ I have been working as Angulard devloper scence 2 years , I have also have knowl
 
 **Check this out**
 
-[:beetle: parallex-effect](https://mithulohar.github.io/parallax-deployed/)
+[:flashlight: parallex-effect](https://mithulohar.github.io/parallax-deployed/)
 
-[:beetle: lazy load component](https://city-quiz-f793c.web.app/)
+[:flashlight: lazy load component](https://city-quiz-f793c.web.app/)
 
 
 find me on 
