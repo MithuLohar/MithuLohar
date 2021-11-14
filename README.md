@@ -17,7 +17,6 @@ I have been working as Angulard devloper scence 2 years , I have also have knowl
 
 
 **Check this out**
-
  * [parallex-effect](https://mithulohar.github.io/parallax-deployed/)
   
 * [lazy load component](https://city-quiz-f793c.web.app/)
