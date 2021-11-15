@@ -12,7 +12,7 @@ I have been working as Angulard devloper scence 2 years , I have also have knowl
 
 # Tools I use
 
-> <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img src="https://img.icons8.com/dusk/48/000000/postman-api.png"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png" style="height:48px;width:48px;" /> <img src="https://code.visualstudio.com/assets/images/code-stable.png" style="height:48px;width:48px;" />
+> <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img src="https://img.icons8.com/dusk/48/000000/postman-api.png"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png" style="height:48px;width:48px;" /> <img src="https://code.visualstudio.com/assets/images/code-stable.png" style="height:48px;width:48px;" />   
 
 
 
@@ -27,9 +27,10 @@ find me on
 >  [![alt-text](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/mithu-lohar-69a95717a) [![alt-text](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/mithulohar/)
 
   
-  :email: **mithulohar9@gmail.com**
+  :email: **mithulohar9@gmail.com** 
   
-  ![whatsapp](https://img.icons8.com/office/160/000000/whatsapp--v3.png)
+  <img src="https://i.ibb.co/nDkVL29/File-000.png" style="height:600px;" />
+  
   
   
   
