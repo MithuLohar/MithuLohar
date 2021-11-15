@@ -27,7 +27,7 @@ find me on
 >  [![alt-text](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/mithu-lohar-69a95717a) [![alt-text](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/mithulohar/)
 
   
- <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/24/000000/external-email-notifications-justicon-lineal-color-justicon-1.png"/>  **mithulohar9@gmail.com** 
+ <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/24/000000/external-email-notifications-justicon-lineal-color-justicon-1.png"/>                                                 **mithulohar9@gmail.com** 
   
   <img src="https://img.icons8.com/color/24/000000/telegram-app--v1.png"/>  **[https://t.me/Mithu_Lohar](https://t.me/Mithu_Lohar)**
   
