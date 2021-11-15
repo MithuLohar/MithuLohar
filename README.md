@@ -29,7 +29,7 @@ find me on
   
   :email: **mithulohar9@gmail.com** 
   
-  <img src="https://i.ibb.co/nDkVL29/File-000.png" style="height:600px;" />
+  <img src="https://i.ibb.co/TYPN14Z/File-000.png" style="height:250px;" />
   
   
   
