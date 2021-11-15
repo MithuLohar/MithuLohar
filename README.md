@@ -27,7 +27,7 @@ find me on
 >  [![alt-text](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/mithu-lohar-69a95717a) [![alt-text](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/mithulohar/)
  <p>&nbsp;</p>
  
-📧 **mithulohar9@gmail.com** 
+<img src="https://img.icons8.com/color/24/000000/gmail-login.png"/> **mithulohar9@gmail.com** 
 
   <p>&nbsp;</p>
  <img src="https://img.icons8.com/color/64/000000/telegram-app.png"/>
