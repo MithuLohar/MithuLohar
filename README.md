@@ -7,12 +7,12 @@
 I have been working as Angulard devloper scence 2 years , I have also have knowledge on other technologies like 
 
 
-> <img src="https://img.icons8.com/color/48/000000/python--v1.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/color/48/000000/django.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/doodle/48/000000/svetle.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/color/48/000000/firebase.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/color/48/000000/webpack.png" style="background-color: #3b4252;"/> <img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" style="height:48px;width:48px;" style="background-color: #3b4252;"/> <img src="https://raw.githubusercontent.com/webmaxru/progressive-web-apps-logo/master/pwalogo.svg" style="height: 48px;width: 48px;"> <a href="https://www.freepnglogos.com/pics/html5-logo" title="Image from freepnglogos.com"> 
+> <img src="https://img.icons8.com/color/48/000000/python--v1.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/color/48/000000/django.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/doodle/48/000000/svetle.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/color/48/000000/firebase.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/color/48/000000/webpack.png" style="background-color: #3b4252;"/> <img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" style="height:48px;width:48px;" style="background-color: #3b4252;"/> <img src="https://raw.githubusercontent.com/webmaxru/progressive-web-apps-logo/master/pwalogo.svg" style="height: 48px;width: 48px;">
 
 
 # Tools I use
 
-> <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img src="https://img.icons8.com/dusk/48/000000/postman-api.png"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png" style="height:48px;width:48px;" />
+> <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img src="https://img.icons8.com/dusk/48/000000/postman-api.png"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png" style="height:48px;width:48px;" /> <img src="https://code.visualstudio.com/assets/images/code-stable.png" style="height:48px;width:48px;" />
 
 
 
