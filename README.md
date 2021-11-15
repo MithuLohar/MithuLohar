@@ -30,9 +30,11 @@ find me on
 <img src="https://img.icons8.com/color/24/000000/gmail-login.png"/> **mithulohar9@gmail.com** 
 
   <p>&nbsp;</p>
- <img src="https://img.icons8.com/color/64/000000/telegram-app.png"/>
+
+> <img src="https://cdn.icon-icons.com/icons2/555/PNG/128/telegram_icon-icons.com_53603.png"/>
+> 
+> <a href="https://t.me/Mithu_Lohar"><strong>ping me</strong></a>
  
- **[ping me](https://t.me/Mithu_Lohar)**
   <p>&nbsp;</p>
   <img src="https://i.ibb.co/TYPN14Z/File-000.png" style="height:250px;" />
   
