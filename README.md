@@ -31,7 +31,7 @@ find me on
 
   <p>&nbsp;</p>
 
-> <img src="https://cdn.icon-icons.com/icons2/555/PNG/128/telegram_icon-icons.com_53603.png"/>
+> <img src="https://cdn.icon-icons.com/icons2/555/PNG/64/telegram_icon-icons.com_53603.png"/>
 > 
 > <a href="https://t.me/Mithu_Lohar"><strong>ping me</strong></a>
  
