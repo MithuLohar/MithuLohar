@@ -28,16 +28,15 @@
 >  [![alt-text](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/mithu-lohar-69a95717a) [![alt-text](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/mithulohar/)
  <p>&nbsp;</p>
  
+ 
+ ***contacts*** 
 > <img src="https://img.icons8.com/color/24/000000/gmail-login.png"/> **mithulohar9@gmail.com** 
-
-  <p>&nbsp;</p>
-
+>
 > <img src="https://cdn.icon-icons.com/icons2/555/PNG/64/telegram_icon-icons.com_53603.png"/>
 > 
 > <a href="https://t.me/Mithu_Lohar"><strong>ping me</strong></a>
- 
-  <p>&nbsp;</p>
-  <img src="https://i.ibb.co/TYPN14Z/File-000.png" style="height:250px;" />
+>
+>  <img src="https://i.ibb.co/TYPN14Z/File-000.png" style="height:250px;" />
   
   
   
