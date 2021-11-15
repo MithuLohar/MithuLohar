@@ -25,14 +25,15 @@ I have been working as Angulard devloper scence 2 years , I have also have knowl
 find me on 
 
 >  [![alt-text](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/mithu-lohar-69a95717a) [![alt-text](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/mithulohar/)
+ <p>&nbsp;</p>
+ 
+📧 **mithulohar9@gmail.com** 
 
-  
- 📧**mithulohar9@gmail.com** 
-  
-  
-  
-  <img src="https://img.icons8.com/color/24/000000/telegram-app--v1.png"/>  **[https://t.me/Mithu_Lohar](https://t.me/Mithu_Lohar)**
-  
+  <p>&nbsp;</p>
+ <img src="https://img.icons8.com/color/64/000000/telegram-app.png"/>
+ 
+ **[ping me](https://t.me/Mithu_Lohar)**
+  <p>&nbsp;</p>
   <img src="https://i.ibb.co/TYPN14Z/File-000.png" style="height:250px;" />
   
   
