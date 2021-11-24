@@ -5,8 +5,8 @@
 <hr>
 <h1 align="center">I'm <a href="https://github.com/MithuLohar">Mithu Lohar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-
- <img src="https://img.shields.io/badge/-angular-red?style=for-the-badge&logo=angular"/> <img src="https://img.shields.io/badge/-node-lightgrey?style=for-the-badge&logo=Node.js"/>  <img src="https://img.shields.io/badge/-npm-orange?style=for-the-badge&logo=npm"/>  <img src="https://img.shields.io/badge/-html-lightgrey?style=for-the-badge&logo=HTML5"/> <img src="https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=CSS3"/> <img src="https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=JavaScript"/> <img src="https://img.shields.io/badge/-typescript-yellow?style=for-the-badge&logo=TypeScript"> <img src="https://img.shields.io/badge/-json-blue?style=for-the-badge&logo=JSON"/> <img src="https://img.shields.io/badge/-jquery-blue?style=for-the-badge&logo=jQuery"/>
+  
+<img src="https://badges.aleen42.com/src/angular.svg"/> <img src="https://badges.aleen42.com/src/node.svg"/>  <img src="https://badges.aleen42.com/src/npm.svg"/>  <img src="https://img.shields.io/badge/-html-lightgrey?style=flat&logo=HTML5"/> <img src="https://img.shields.io/badge/-css-blue?style=flat&logo=CSS3"/> <img src="https://badges.aleen42.com/src/javascript.svg"/> <img src="https://badges.aleen42.com/src/typescript.svg"> <img src="https://img.shields.io/badge/-json-blue?style=flat&logo=JSON"/> <img src="https://img.shields.io/badge/-jquery-blue?style=flat&logo=jQuery"/>
    
    
    
