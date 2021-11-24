@@ -4,10 +4,10 @@
 
 ![alt-text](https://c4.wallpaperflare.com/wallpaper/251/766/375/javascript-web-development-wallpaper-preview.jpg)
 
-#### I have been working as Angulard devloper scence 2 years , I have also have knowledge on other technologies like 
+#### I have been working as Angulard devloper  , I have also have knowledge on other technologies like 
 
 
-> <img src="https://img.icons8.com/color/48/000000/python--v1.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/color/48/000000/django.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/doodle/48/000000/svetle.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/color/48/000000/firebase.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/color/48/000000/webpack.png" style="background-color: #3b4252;"/> <img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" style="height:48px;width:48px;" style="background-color: #3b4252;"/> <img src="https://raw.githubusercontent.com/webmaxru/progressive-web-apps-logo/master/pwalogo.svg" style="height: 48px;width: 48px;">
+> <img src="https://img.icons8.com/color/48/000000/python--v1.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/color/48/000000/django.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/doodle/48/000000/svetle.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/color/48/000000/firebase.png" style="background-color: #3b4252;"/> <img src="https://img.icons8.com/color/48/000000/webpack.png" style="background-color: #3b4252;"/> <img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" style="height:48px;width:48px;" style="background-color: #3b4252;"/> <img src="https://raw.githubusercontent.com/webmaxru/progressive-web-apps-logo/master/pwalogo.svg" style="height: 48px;width: 48px;">  <img src="https://parceljs.org/avatar.accb250e.png" style="height: 48px;width: 48px;">
    
 
 ## Tools I use
