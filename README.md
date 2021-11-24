@@ -1,6 +1,18 @@
-# Hi I'm Mithu Lohar :computer: :eyeglasses:  <img src="https://img.icons8.com/color/32/000000/angularjs.png" style="height:28px;width:28px;"/>
->  <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" style="height:28px;width:28px;"/>  <img src="https://img.icons8.com/color/50/000000/npm.png" style="height:28px;width:28px;"/>  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" style="height:28px;width:28px;" alt="html5 logo, html logo" /> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="height:28px;width:28px;"/><img src="https://cdn-icons-png.flaticon.com/512/136/136530.png" style="height:28px;width:28px;"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" style="height:28px;width:28px;"/> <img src="https://pics.freeicons.io/uploads/icons/png/12279380501536080150-512.png" style="height:28px;width:28px;"/>  <img src="https://iconape.com/wp-content/png_logo_vector/jquery-logo.png" style="height:28px;width:100px;"/>
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
 
+<hr>
+<h1 align="center">I'm <a href="https://github.com/MithuLohar">Mithu Lohar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
+
+ <img src="https://img.shields.io/badge/-angular-red?style=for-the-badge&logo=angular"/> <img src="https://img.shields.io/badge/-node-lightgrey?style=for-the-badge&logo=Node.js"/>  <img src="https://img.shields.io/badge/-npm-orange?style=for-the-badge&logo=npm"/>  <img src="https://img.shields.io/badge/-html-lightgrey?style=for-the-badge&logo=HTML5"/> <img src="https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=CSS3"/> <img src="https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=JavaScript"/> <img src="https://img.shields.io/badge/-typescript-yellow?style=for-the-badge&logo=TypeScript"> <img src="https://img.shields.io/badge/-json-blue?style=for-the-badge&logo=JSON"/> <img src="https://img.shields.io/badge/-jquery-blue?style=for-the-badge&logo=jQuery"/>
+   
+   
+   
+
+   
+   
 
 ![alt-text](https://c4.wallpaperflare.com/wallpaper/251/766/375/javascript-web-development-wallpaper-preview.jpg)
 
