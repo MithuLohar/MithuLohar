@@ -21,6 +21,8 @@
 
 > <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-python.svg" style="background-color: #3b4252;height:48px;width:48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-django.svg" style="background-color: #3b4252;height:48px;width:48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-svelte.svg" style="background-color: #3b4252;height:48px;width:48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-google-firebase-console.svg" style="background-color: #3b4252;height:48px;width:48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-webpack.svg" style="background-color: #3b4252;height:48px;width:48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-sass.svg" style="height:48px;width:48px;" style="background-color: #3b4252;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/pwalogo.svg" style="height: 48px;width: 48px;">  
    
+  
+  
 
 ## Tools I use
   
@@ -30,6 +32,7 @@
 
  <p>&nbsp;</p>
 
+  
 
 **Check this out**
   
@@ -48,9 +51,9 @@
   
 <img src="https://img.icons8.com/color/24/000000/gmail-login.png"/>  <img src="https://img.shields.io/badge/-mithulohar9%40gmail.com-blue?style=for-the-badgeg"/>
 
-<a href="https://t.me/Mithu_Lohar"><img src="https://badges.aleen42.com/src/telegram.svg"/></a>
 
->  <img src="https://i.ibb.co/TYPN14Z/File-000.png" style="height:250px;" />
+  <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/File_000.png" style="height:500px;"/>
+  
   
   
   
