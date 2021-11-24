@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"/>
 </p>
 
 <hr>
