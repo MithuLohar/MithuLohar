@@ -36,22 +36,24 @@
 
 **Check this out**
   
-<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/link(2).svg"/> [<img src="https://img.shields.io/badge/-parallex--effect-orange?style=flat"/>](https://mithulohar.github.io/parallax-deployed/)
+[<img src="https://img.shields.io/badge/-parallex--effect-orange?style=flat"/>](https://mithulohar.github.io/parallax-deployed/) <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/link(2).svg"/>
 
-<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/link(2).svg"/> [<img src="https://img.shields.io/badge/-lazy%20load%20component-orange?style=flat"/>](https://city-quiz-f793c.web.app/)
+ [<img src="https://img.shields.io/badge/-lazy%20load%20component-orange?style=flat"/>](https://city-quiz-f793c.web.app/) <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/link(2).svg"/>
 
 
 
 ***find me on*** 
->  [![alt-text](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/mithu-lohar-69a95717a) [![alt-text](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/mithulohar/)
+  
+[![alt-text](https://img.shields.io/badge/-Linkedin-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mithu-lohar-69a95717a) 
+  
+[![alt-text](https://img.shields.io/badge/-instagram-green?style=social&logo=instagram)](https://www.instagram.com/mithulohar/)
  <p>&nbsp;</p>
- 
  
  ***contacts*** 
   
 <img src="https://img.icons8.com/color/24/000000/gmail-login.png"/>  <img src="https://img.shields.io/badge/-mithulohar9%40gmail.com-blue?style=for-the-badgeg"/>
 
-
+  <img src="https://badges.aleen42.com/src/whatsapp.svg"/>
   <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/File_000.png" style="height:500px;"/>
   
   
