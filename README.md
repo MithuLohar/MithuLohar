@@ -24,7 +24,7 @@
 
 ## Tools I use
 
-> <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img src="https://img.icons8.com/dusk/48/000000/postman-api.png"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png" style="height:48px;width:48px;" /> <img src="https://code.visualstudio.com/assets/images/code-stable.png" style="height:48px;width:48px;" /> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" style="height:48px;width:48px;"/>  
+> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-slack-new.svg" style="height: 48px;width: 48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-figma.svg" style="height: 48px;width: 48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-postman-api.svg" style="height: 48px;width: 48px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png" style="height:48px;width:48px;" /> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-visual-studio-code-2019.svg" style="height:48px;width:48px;" /> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" style="height:48px;width:48px;"/>  
 
  <p>&nbsp;</p>
 
