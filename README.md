@@ -31,9 +31,9 @@
 
 **Check this out**
   
-<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/link(2).svg"/> [<img src="https://img.shields.io/badge/-parallex--effect-orange?style=for-the-badge"/>](https://mithulohar.github.io/parallax-deployed/)
+<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/link(2).svg"/> [<img src="https://img.shields.io/badge/-parallex--effect-orange?style=flat"/>](https://mithulohar.github.io/parallax-deployed/)
 
-<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/link(2).svg"/> [<img src="https://img.shields.io/badge/-lazy%20load%20component-orange?style=for-the-badge"/>](https://city-quiz-f793c.web.app/)
+<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/link(2).svg"/> [<img src="https://img.shields.io/badge/-lazy%20load%20component-orange?style=flat"/>](https://city-quiz-f793c.web.app/)
 
 
 
