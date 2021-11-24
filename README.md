@@ -30,9 +30,10 @@
 
 
 **Check this out**
-> - [parallex-effect](https://mithulohar.github.io/parallax-deployed/)
->  
-> - [lazy load component](https://city-quiz-f793c.web.app/)
+  
+<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/link(2).svg"/> [parallex-effect](https://mithulohar.github.io/parallax-deployed/)
+
+<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/link(2).svg"/> [lazy load component](https://city-quiz-f793c.web.app/)
 
 
 
