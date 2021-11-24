@@ -51,7 +51,7 @@
  
  ***contacts*** 
   
-<img src="https://img.icons8.com/color/24/000000/gmail-login.png"/>  <img src="https://img.shields.io/badge/-mithulohar9%40gmail.com-blue?style=for-the-badgeg"/>
+<img src="https://img.icons8.com/color/24/000000/gmail-login.png"/>  <img src="https://img.shields.io/badge/-mithulohar9%40gmail.com-blue?style=palstic"/>
 
   <img src="https://badges.aleen42.com/src/whatsapp.svg"/>
   <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/File_000.png" style="height:500px;"/>
