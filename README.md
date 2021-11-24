@@ -23,6 +23,8 @@
    
 
 ## Tools I use
+  
+ 
 
 > <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-slack-new.svg" style="height: 48px;width: 48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-figma.svg" style="height: 48px;width: 48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-postman-api.svg" style="height: 48px;width: 48px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png" style="height:48px;width:48px;" /> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-visual-studio-code-2019.svg" style="height:48px;width:48px;" /> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" style="height:48px;width:48px;"/>  
 
@@ -43,7 +45,8 @@
  
  
  ***contacts*** 
-> <img src="https://img.icons8.com/color/24/000000/gmail-login.png"/> **mithulohar9@gmail.com** 
+  
+<img src="https://img.icons8.com/color/24/000000/gmail-login.png"/>  <img src="https://img.shields.io/badge/-mithulohar9%40gmail.com-blue?style=for-the-badgeg"/>
 
 > <img src="https://cdn.icon-icons.com/icons2/555/PNG/64/telegram_icon-icons.com_53603.png"/>
 >
