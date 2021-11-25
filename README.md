@@ -6,7 +6,7 @@
 <h1 align="center">I'm <a href="https://github.com/MithuLohar">Mithu Lohar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
   
-<img src="https://badges.aleen42.com/src/angular.svg"/> <img src="https://badges.aleen42.com/src/node.svg"/>  <img src="https://badges.aleen42.com/src/npm.svg"/>  <img src="https://img.shields.io/badge/-html-lightgrey?style=flat&logo=HTML5"/> <img src="https://img.shields.io/badge/-css-blue?style=flat&logo=CSS3"/> <img src="https://badges.aleen42.com/src/javascript.svg"/> <img src="https://badges.aleen42.com/src/typescript.svg"> <img src="https://img.shields.io/badge/-json-blue?style=flat&logo=JSON"/> <img src="https://img.shields.io/badge/-jquery-blue?style=flat&logo=jQuery"/>
+<img src="https://badges.aleen42.com/src/angular_flat_square_dfc.svg"/> <img src="https://badges.aleen42.com/src/node_flat_square_dfc.svg"/>  <img src="https://badges.aleen42.com/src/npm_flat_square_dfc.svg"/>  <img src="https://img.shields.io/badge/-html-lightgrey?style=flat-square&logo=HTML5"/> <img src="https://img.shields.io/badge/-css-blue?style=flat-square&logo=CSS3"/> <img src="https://badges.aleen42.com/src/javascript_flat_square_dfc.svg"/> <img src="https://badges.aleen42.com/src/typescript_flat_square_dfc.svg"> <img src="https://img.shields.io/badge/-json-blue?style=flat-square&logo=JSON"/> <img src="https://img.shields.io/badge/-jquery-blue?style=flat-square&logo=jQuery"/>
    
    
    
