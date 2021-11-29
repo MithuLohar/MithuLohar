@@ -56,8 +56,8 @@
   
 <img src="https://img.shields.io/badge/email-mithulohar9%40gmail.com-d04035?style=flat&logo=maildotru"/>
 
-  <img src="https://badges.aleen42.com/src/whatsapp.svg"/>
-  <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/File_000.png" style="height:500px;"/>
+<p align="center"><img src="https://c.tenor.com/L5Hp9bolcaAAAAAi/habbo-habbohotel.gif"/></p>
+<p align="center"><a href="https://github.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab.svg"/></a></p>
   
   
   
