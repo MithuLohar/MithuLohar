@@ -30,7 +30,7 @@
   
   
 
-## Tools I use
+<h2>Tools I use</h2>
 
 <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-slack-new.svg" style="height: 48px;width: 48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-figma.svg" style="height: 48px;width: 48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-postman-api.svg" style="height: 48px;width: 48px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png" style="height:48px;width:48px;" /> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-visual-studio-code-2019.svg" style="height:48px;width:48px;" /> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" style="height:48px;width:48px;"/>  
 
