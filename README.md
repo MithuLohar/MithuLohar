@@ -1,20 +1,24 @@
 <p align="center">
-  <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"/>
+  <img src="https://media2.giphy.com/media/z2KbVZxKCHxxIDhnsQ/200w.webp?cid=ecf05e4730zqdxnwlva926d59215rtgsusqumlgcpcd2hoev&rid=200w.webp&ct=g"/>
 </p>
 
-<hr>
-<h1 align="center">I'm <a href="https://github.com/MithuLohar">Mithu Lohar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+
+  <h1 align="center"> Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>I'm <a href="https://github.com/MithuLohar">Mithu Lohar<a></h1>
+
+
 <Br>
   
-<img src="https://badges.aleen42.com/src/angular_flat_square_dfc.svg"/> <img src="https://badges.aleen42.com/src/node_flat_square_dfc.svg"/>  <img src="https://badges.aleen42.com/src/npm_flat_square_dfc.svg"/>  <img src="https://img.shields.io/badge/-html-f5f5f6?style=flat-square&logo=HTML5"/> <img src="https://img.shields.io/badge/-css-00587a?style=flat-square&logo=CSS3"/> <img src="https://badges.aleen42.com/src/javascript_flat_square_dfc.svg"/> <img src="https://badges.aleen42.com/src/typescript_flat_square_dfc.svg"> <img src="https://img.shields.io/badge/-json-9c27b0?style=flat-square&logo=JSON"/> <img src="https://img.shields.io/badge/-jquery-0f1e2e?style=flat-square&logo=jQuery"/>
-   
-   
+
+  <p align="center">
+  <img src="https://badges.aleen42.com/src/angular_flat_square_dfc.svg"/> <img src="https://badges.aleen42.com/src/node_flat_square_dfc.svg"/>  <img src="https://badges.aleen42.com/src/npm_flat_square_dfc.svg"/>  <img src="https://img.shields.io/badge/-html-f5f5f6?style=flat-square&logo=HTML5"/> <img src="https://img.shields.io/badge/-css-00587a?style=flat-square&logo=CSS3"/> <img src="https://badges.aleen42.com/src/javascript_flat_square_dfc.svg"/> <img src="https://badges.aleen42.com/src/typescript_flat_square_dfc.svg"> <img src="https://img.shields.io/badge/-json-9c27b0?style=flat-square&logo=JSON"/> <img src="https://img.shields.io/badge/-jquery-0f1e2e?style=flat-square&logo=jQuery"/>
+ <p align="center"> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/4108586.png"/></P>
+</p>
    
 
    
    
 
-![alt-text](https://c4.wallpaperflare.com/wallpaper/251/766/375/javascript-web-development-wallpaper-preview.jpg)
+
 
 #### I have been working as Angulard devloper  , I have also have knowledge on other technologies like 
 
