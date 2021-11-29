@@ -3,7 +3,7 @@
 </p>
 
 
-  <h1 align="center"> Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>I'm <a href="https://github.com/MithuLohar">Mithu Lohar<a></h1>
+  <h1 align="center"> Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>I'm <a href="https://github.com/MithuLohar">Mithu Lohar</a></h1>
 
 
 <Br>
@@ -15,6 +15,7 @@
 </p>
    
 
+
    
    
 
@@ -23,20 +24,18 @@
 #### I have been working as Angulard devloper  , I have also have knowledge on other technologies like 
 
 
+
 <img src="https://img.shields.io/badge/-python-ffdb4e?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/-django-0c4b33?style=for-the-badge&logo=django"/> <img src="https://img.shields.io/badge/-svelte-ffffff?style=for-the-badge&logo=svelte"/> <img src="https://img.shields.io/badge/-firebase-051e34?style=for-the-badge&logo=firebase"/> <img src="https://img.shields.io/badge/-webpack-2b3a42?style=for-the-badge&logo=webpack"/> <img src="https://img.shields.io/badge/-sass-f8f9fa?style=for-the-badge&logo=sass"/> <img src="https://img.shields.io/badge/-pwa-6600ed?style=for-the-badge&logo=pwa">  
    
   
   
 
 ## Tools I use
-  
- 
 
-> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-slack-new.svg" style="height: 48px;width: 48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-figma.svg" style="height: 48px;width: 48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-postman-api.svg" style="height: 48px;width: 48px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png" style="height:48px;width:48px;" /> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-visual-studio-code-2019.svg" style="height:48px;width:48px;" /> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" style="height:48px;width:48px;"/>  
+<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-slack-new.svg" style="height: 48px;width: 48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-figma.svg" style="height: 48px;width: 48px;"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-postman-api.svg" style="height: 48px;width: 48px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png" style="height:48px;width:48px;" /> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/icons8-visual-studio-code-2019.svg" style="height:48px;width:48px;" /> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" style="height:48px;width:48px;"/>  
 
  <p>&nbsp;</p>
 
-  
 
 **Check this out**
   
@@ -61,6 +60,8 @@
   <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/File_000.png" style="height:500px;"/>
   
   
+  
+ 
   
   
   
