@@ -9,7 +9,7 @@
 <Br>
   
 
-  <p align="center">
+  <p>
   <img src="https://badges.aleen42.com/src/angular_flat_square_dfc.svg"/> <img src="https://badges.aleen42.com/src/node_flat_square_dfc.svg"/>  <img src="https://badges.aleen42.com/src/npm_flat_square_dfc.svg"/>  <img src="https://img.shields.io/badge/-html-f5f5f6?style=flat-square&logo=HTML5"/> <img src="https://img.shields.io/badge/-css-00587a?style=flat-square&logo=CSS3"/> <img src="https://badges.aleen42.com/src/javascript_flat_square_dfc.svg"/> <img src="https://badges.aleen42.com/src/typescript_flat_square_dfc.svg"> <img src="https://img.shields.io/badge/-json-9c27b0?style=flat-square&logo=JSON"/> <img src="https://img.shields.io/badge/-jquery-0f1e2e?style=flat-square&logo=jQuery"/>
  <p align="center"> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/4108586.png"/></P>
 </p>
