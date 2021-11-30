@@ -22,6 +22,10 @@
 
 
 <img src="https://img.shields.io/badge/-python-ffdb4e?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/-django-0c4b33?style=for-the-badge&logo=django"/> <img src="https://img.shields.io/badge/-svelte-ffffff?style=for-the-badge&logo=svelte"/> <img src="https://img.shields.io/badge/-firebase-051e34?style=for-the-badge&logo=firebase"/> <img src="https://img.shields.io/badge/-webpack-2b3a42?style=for-the-badge&logo=webpack"/> <img src="https://img.shields.io/badge/-scss-f8f9fa?style=for-the-badge&logo=sass"/> <img src="https://img.shields.io/badge/-pwa-6600ed?style=for-the-badge&logo=pwa"> <img src="https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=nextdotjs">  
+
+<br/>
+
+<b>experienced in gitlab project work flow , check some of my projects in <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a></b>
    
   
   
@@ -52,8 +56,6 @@
   
 <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/output.svg"/>
 
-<p align="center"><img src="https://c.tenor.com/L5Hp9bolcaAAAAAi/habbo-habbohotel.gif"/></p>
-<p align="center"><a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab.svg"/></a></p>
   
   
   
