@@ -25,7 +25,7 @@
 
 <br/>
 
-<b>experienced in gitlab project work flow , check some of my projects in <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a></b>
+
    
   
   
@@ -55,6 +55,10 @@
  ***contacts*** 
   
 <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/output.svg"/>
+
+
+
+<p align="center">  now visit  <p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a> </P>    </p>
 
   
   
