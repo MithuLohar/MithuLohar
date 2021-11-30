@@ -21,7 +21,7 @@
 
 
 
-#### I have been working as Angulard devloper  , I have also have knowledge on other technologies like 
+#### I have been working as Angular developer  , I have also have knowledge on other technologies like 
 
 
 
