@@ -47,9 +47,9 @@
 
 ***find me on*** 
   
-[![alt-text](https://img.shields.io/badge/-Linkedin-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mithu-lohar-69a95717a) 
+[![alt-text](https://github.com/MithuLohar/readme-resources/blob/main/images-svg/linkedbadge.svg)](https://www.linkedin.com/in/mithu-lohar-69a95717a) 
   
-[![alt-text](https://img.shields.io/badge/-instagram-green?style=social&logo=instagram)](https://www.instagram.com/mithulohar/)
+[![alt-text](https://github.com/MithuLohar/readme-resources/blob/main/images-svg/instagrambadge.svg)](https://www.instagram.com/mithulohar/)
  <p>&nbsp;</p>
  
  ***contacts*** 
