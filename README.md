@@ -18,7 +18,7 @@
 
   
   
-<h4>I have been working as <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/ANGULAR.svg" /> developer  , I have also have knowledge on other technologies like </h4>
+<h4>I have been working as <a href="https://angular.io/"><img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/ANGULAR.svg" /></a> developer  , I have also have knowledge on other technologies like </h4>
 
 
 <img src="https://img.shields.io/badge/-python-ffdb4e?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/-django-0c4b33?style=for-the-badge&logo=django"/> <img src="https://img.shields.io/badge/-svelte-ffffff?style=for-the-badge&logo=svelte"/> <img src="https://img.shields.io/badge/-firebase-051e34?style=for-the-badge&logo=firebase"/> <img src="https://img.shields.io/badge/-webpack-2b3a42?style=for-the-badge&logo=webpack"/> <img src="https://img.shields.io/badge/-scss-f8f9fa?style=for-the-badge&logo=sass"/> <img src="https://img.shields.io/badge/-pwa-6600ed?style=for-the-badge&logo=pwa"> <img src="https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=nextdotjs">  
