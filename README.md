@@ -41,7 +41,7 @@
   
 [<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/Rectangle%202.svg"/>](https://mithulohar.github.io/parallax-deployed/) 
 
- [<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/city-quiz.svg"/>](https://city-quiz-f793c.web.app/) <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/link(2).svg"/>
+ [<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/city-quiz.svg"/>](https://city-quiz-f793c.web.app/)
 
 
 
