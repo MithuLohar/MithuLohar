@@ -3,7 +3,7 @@
 </p>
 
 
-  <h1 align="center"> Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>I'm <a href="https://github.com/MithuLohar">Mithu Lohar</a></h1>
+  <h1 align="center"> Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>I'm <a href="https://github.com/MithuLohar"><img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/Mithu%20Lohar.svg"/></a></h1>
 
 
 <Br>
