@@ -54,12 +54,18 @@
   
 <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/output.svg"/>
 
-###### random code idea
-
+##### random code idea
+###### recursive function to fine factorial
 
 
 ```js
-fetch('http://example.com/movies.json').then(😉 => 😉.json()).then(😄 => console.log(😄)).catch(😡=>console.log(😡))
+function factorial(x) {
+    if (x == 0) {
+        return 1;
+    } else {
+        return x * factorial(x - 1);
+    }
+}
 ```
 <p align="center"><b>Okay, now click it </b> <p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a> </P>    </p>
 
