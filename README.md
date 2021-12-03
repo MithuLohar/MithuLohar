@@ -5,38 +5,6 @@
   <h1 align="center"> Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>I'm <a href="https://github.com/MithuLohar"><img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/Mithu%20Lohar.svg"/></a></h1>
 
 
-###### random code idea
-
-```html
-<style>
-  #container{
-  display: flex;
-  justify-content: center;
-  flex-direction: center;
-  }
-  
-</style>
-<body>
-  <div id="container">
-    <div>
-      center
-    </div>
-  </div>
-</body>
-
- <!--bootstrap equivalent-->
-
-<div class="d-flex justify-content-start align-items-center">
-  <div>
-  center
-  </div>
-</div>
-```
-
-
-
-
-
 <Br>
   
 
