@@ -59,12 +59,7 @@
 
 
 ```js
-fetch('http://example.com/movies.json')
-.then(😉 => 😉.json())
-.then(😄 => console.log(😄))
-.catch(😡=>console.log(😡))
-
-
+fetch('http://example.com/movies.json').then(😉 => 😉.json()).then(😄 => console.log(😄)).catch(😡=>console.log(😡))
 ```
 <p align="center"><b>Okay, now click it </b> <p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a> </P>    </p>
 
