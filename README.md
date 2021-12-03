@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/z2KbVZxKCHxxIDhnsQ/200w.webp?cid=ecf05e4730zqdxnwlva926d59215rtgsusqumlgcpcd2hoev&rid=200w.webp&ct=g"/>
 </p>
-
   <h1 align="center"> Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>I'm <a href="https://github.com/MithuLohar"><img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/Mithu%20Lohar.svg"/></a></h1>
 
 
@@ -61,9 +60,9 @@
 
 ```js
 fetch('http://example.com/movies.json')
-.then(response => response.json())
-.then(data => console.log(data))
-.catch(err=>console.log(err))
+.then(😉 => 😉.json())
+.then(😄 => console.log(😄))
+.catch(😡=>console.log(😡))
 
 
 ```
