@@ -67,7 +67,7 @@ def compute_hcf(x, y):
 hcf = compute_hcf(300, 400)
 print("The HCF is", hcf)
 ```
-<p align="center"><b>Okay, now click it </b> <p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a> </P>    </p>
+<p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a>   </p>
 
   
   
