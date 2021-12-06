@@ -55,17 +55,17 @@
 <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/output.svg"/>
 
 ##### random code idea
-###### recursive function to fine factorial
+###### HCF of numbers using the Euclidean Algorithm
 
 
-```js
-function factorial(x) {
-    if (x == 0) {
-        return 1;
-    } else {
-        return x * factorial(x - 1);
-    }
-}
+```python
+def compute_hcf(x, y):
+   while(y):
+       x, y = y, x % y
+   return x
+
+hcf = compute_hcf(300, 400)
+print("The HCF is", hcf)
 ```
 <p align="center"><b>Okay, now click it </b> <p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a> </P>    </p>
 
