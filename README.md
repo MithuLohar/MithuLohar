@@ -56,7 +56,7 @@
 
 ##### random code idea
 ###### ternary operator
-```ts
+```python
 condition ? "doThisIfTrue" : "doThisIfFalse"
 ```
 <p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a>   </p>
