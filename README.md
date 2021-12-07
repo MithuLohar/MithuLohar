@@ -55,17 +55,9 @@
 <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/output.svg"/>
 
 ##### random code idea
-###### HCF of numbers using the Euclidean Algorithm
-
-
-```python
-def compute_hcf(x, y):
-   while(y):
-       x, y = y, x % y
-   return x
-
-hcf = compute_hcf(300, 400)
-print("The HCF is", hcf)
+###### ternary operator
+```ts
+condition ? "doThisIfTrue" : "doThisIfFalse"
 ```
 <p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a>   </p>
 
