@@ -56,9 +56,13 @@
 <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/output.svg"/>
 
 ##### random code idea
-###### ternary operator
+###### reverse string using recursion
 ```python
-condition ? "doThisIfTrue" : "doThisIfFalse"
+def reverse(s):
+    if len(s) == 0:
+        return s
+    else:
+        return reverse(s[1:]) + s[0]
 ```
 <p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a>   </p>
 
