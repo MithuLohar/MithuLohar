@@ -63,11 +63,7 @@
 ##### random code idea
 ###### reverse string using recursion
 ```python
-def reverse(s):
-    if len(s) == 0:
-        return s
-    else:
-        return reverse(s[1:]) + s[0]
+a, b = b, a
 ```
 <p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a>   </p>
 
