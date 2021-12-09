@@ -55,6 +55,10 @@
   
 <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/output.svg"/>
 
+
+
+[![tic-tac-toe](https://github.com/MithuLohar/readme-resources/blob/main/images-svg/Tic_tac_toe.svg)](https://instafire-app.firebaseapp.com)
+
 ##### random code idea
 ###### reverse string using recursion
 ```python
