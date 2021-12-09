@@ -56,8 +56,7 @@
 <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/output.svg"/>
 
 
-
-[![tic-tac-toe](https://github.com/MithuLohar/readme-resources/blob/main/images-svg/Tic_tac_toe.svg)](https://instafire-app.firebaseapp.com)
+<samp>tic tac toe with PWA</samp>
 <a href="https://instafire-app.firebaseapp.com"><img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/Tic_tac_toe.svg" style="height:96px;width:96px"/></a>
 
 ##### random code idea
