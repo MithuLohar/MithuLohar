@@ -39,15 +39,13 @@
 **Check this out**
   
 [<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/Rectangle%202.svg"/>](https://mithulohar.github.io/parallax-deployed/) 
-
- [<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/city-quiz.svg"/>](https://city-quiz-f793c.web.app/)
+[<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/city-quiz.svg"/>](https://city-quiz-f793c.web.app/)
 
 
 
 ***find me on*** 
   
 [![alt-text](https://github.com/MithuLohar/readme-resources/blob/main/images-svg/linkedbadge.svg)](https://www.linkedin.com/in/mithu-lohar-69a95717a) 
-  
 [![alt-text](https://github.com/MithuLohar/readme-resources/blob/main/images-svg/instagrambadge.svg)](https://www.instagram.com/mithulohar/)
  <p>&nbsp;</p>
  
