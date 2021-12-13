@@ -59,9 +59,9 @@
 <a href="https://instafire-app.firebaseapp.com"><img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/Tic_tac_toe.svg" style="height:96px;width:96px"/></a>
 
 ##### random code idea
-###### factorial
+###### Decode a base64 encoded file
 ```python
-reduce(lambda x, y: x * y, range(1, n+1))
+import base64, sys; base64.decode(open(sys.argv[1], "rb"), open(sys.argv[2], "wb"))
 ```
 <p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a>   </p>
 
