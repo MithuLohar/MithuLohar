@@ -2,7 +2,7 @@
 <!--   <img src="https://media2.giphy.com/media/z2KbVZxKCHxxIDhnsQ/200w.webp?cid=ecf05e4730zqdxnwlva926d59215rtgsusqumlgcpcd2hoev&rid=200w.webp&ct=g"/> -->
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xcl6pit0jk44nmt8hmtiinpflwcuzo88j75m0o78&rid=giphy.gif&ct=g"/>
 </p>
-  <h1 align="center"> Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>I'm <a href="https://github.com/MithuLohar"><img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/Mithu%20Lohar.svg"/></a></h1>
+  <h1 align="center"> Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>I'm <a href="https://github.com/MithuLohar"><samp>Mithu Lohar</samp></a></h1>
 
 
 <Br>
