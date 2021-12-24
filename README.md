@@ -59,9 +59,21 @@
 <a href="https://instafire-app.firebaseapp.com"><img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/Tic_tac_toe.svg" style="height:96px;width:96px"/></a>
 
 ##### random code idea
-###### Quicksort Python One-liner
-```python
-lambda L: [] if L==[] else qsort([x for x in L[1:] if x< L[0]]) + L[0:1] + qsort([x for x in L[1:] if x>=L[0]])
+###### Bucket sort
+```js
+const bucketSort = (arr, size = 5) => {
+  const min = Math.min(...arr);
+  const max = Math.max(...arr);
+  const buckets = Array.from(
+    { length: Math.floor((max - min) / size) + 1 },
+    () => []
+  );
+  arr.forEach(val => {
+    buckets[Math.floor((val - min) / size)].push(val);
+  });
+  return buckets.reduce((acc, b) => [...acc, ...b.sort((a, b) => a - b)], []);
+};
+bucketSort([6, 3, 4, 1]); // [1, 3, 4, 6]
 ```
 <p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a>   </p>
 
