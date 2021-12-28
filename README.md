@@ -10,7 +10,7 @@
 
   <p>
   <img src="https://badges.aleen42.com/src/angular_flat_square_dfc.svg"/> <img src="https://badges.aleen42.com/src/node_flat_square_dfc.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/expressbadge.svg"/>  <img src="https://badges.aleen42.com/src/npm_flat_square_dfc.svg"/>  <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/htmlbadge.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/cssbadge.svg"/> <img src="https://badges.aleen42.com/src/javascript_flat_square_dfc.svg"/> <img src="https://badges.aleen42.com/src/typescript_flat_square_dfc.svg"> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/jsonbadge.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/jquerybadge.svg"/> <img src="https://badges.aleen42.com/src/react_flat_square.svg"/> 
- <p align="center"><img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xcl6pit0jk44nmt8hmtiinpflwcuzo88j75m0o78&rid=giphy.gif&ct=g"/> </P>
+ <p align="center"><img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/giphy.gif" style="width:100%"/> </P>
 </p>
  
  
