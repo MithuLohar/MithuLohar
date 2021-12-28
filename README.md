@@ -59,21 +59,19 @@
 <a href="https://instafire-app.firebaseapp.com"><img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/Tic_tac_toe.svg" style="height:96px;width:96px"/></a>
 
 ##### random code idea
-###### Bucket sort
+###### countSubstrings
 ```js
-const bucketSort = (arr, size = 5) => {
-  const min = Math.min(...arr);
-  const max = Math.max(...arr);
-  const buckets = Array.from(
-    { length: Math.floor((max - min) / size) + 1 },
-    () => []
-  );
-  arr.forEach(val => {
-    buckets[Math.floor((val - min) / size)].push(val);
-  });
-  return buckets.reduce((acc, b) => [...acc, ...b.sort((a, b) => a - b)], []);
+const countSubstrings = (str, searchValue) => {
+  let count = 0,
+    i = 0;
+  while (true) {
+    const r = str.indexOf(searchValue, i);
+    if (r !== -1) [count, i] = [count + 1, r + 1];
+    else return count;
+  }
 };
-bucketSort([6, 3, 4, 1]); // [1, 3, 4, 6]
+countSubstrings('tiktok tok tok tik tok tik', 'tik'); // 3
+countSubstrings('tutut tut tut', 'tut'); // 4
 ```
 <p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a>   </p>
 
