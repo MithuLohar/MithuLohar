@@ -59,19 +59,20 @@
 <a href="https://instafire-app.firebaseapp.com"><img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/Tic_tac_toe.svg" style="height:96px;width:96px"/></a>
 
 ##### random code idea
-###### countSubstrings
+###### binarySearch
 ```js
-const countSubstrings = (str, searchValue) => {
-  let count = 0,
-    i = 0;
-  while (true) {
-    const r = str.indexOf(searchValue, i);
-    if (r !== -1) [count, i] = [count + 1, r + 1];
-    else return count;
+const binarySearch = (arr, item) => {
+  let l = 0,
+    r = arr.length - 1;
+  while (l <= r) {
+    const mid = Math.floor((l + r) / 2);
+    const guess = arr[mid];
+    if (guess === item) return mid;
+    if (guess > item) r = mid - 1;
+    else l = mid + 1;
   }
+  return -1;
 };
-countSubstrings('tiktok tok tok tik tok tik', 'tik'); // 3
-countSubstrings('tutut tut tut', 'tut'); // 4
 ```
 <p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a>   </p>
 
