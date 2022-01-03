@@ -31,7 +31,7 @@
 
 <h2>Tools I use</h2>
 
-<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/slackbadge.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/figmabadge.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/postmanbadge.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/githubdesktopbadge.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/vscode4badge.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/gitbash.svg"/>  
+<img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/slackbadge.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/figmabadge.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/postmanbadge.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/githubdesktopbadge.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/vscode4badge.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/gitbash.svg"/> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_flat_square.svg"/></a>  
 
  <p>&nbsp;</p>
 
@@ -74,7 +74,7 @@ const binarySearch = (arr, item) => {
   return -1;
 };
 ```
-<p align="center"> <a href="https://gitlab.com/MithuLohar"><img src="https://badges.aleen42.com/src/gitlab_dfc.svg"/></a>   </p>
+
 
   
   
