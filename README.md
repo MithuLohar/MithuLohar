@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <img src="https://media2.giphy.com/media/z2KbVZxKCHxxIDhnsQ/200w.webp?cid=ecf05e4730zqdxnwlva926d59215rtgsusqumlgcpcd2hoev&rid=200w.webp&ct=g"/> -->
-  <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/giphy.gif" style="width:100%"/>
+  <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/giphy.gif"/>
 </p>
   <h1 align="center"> Hi I'm <a href="https://github.com/MithuLohar"><samp>Mithu Lohar</samp></a></h1>
 
@@ -10,6 +10,8 @@
 
   <p>
   <img src="https://badges.aleen42.com/src/angular_flat_square_dfc.svg"/> <img src="https://badges.aleen42.com/src/node_flat_square_dfc.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/expressbadge.svg"/>  <img src="https://badges.aleen42.com/src/npm_flat_square_dfc.svg"/>  <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/htmlbadge.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/cssbadge.svg"/> <img src="https://badges.aleen42.com/src/javascript_flat_square_dfc.svg"/> <img src="https://badges.aleen42.com/src/typescript_flat_square_dfc.svg"> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/jsonbadge.svg"/> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/jquerybadge.svg"/> 
+    
+    
  <p align="center"> <img src="https://github.com/MithuLohar/readme-resources/blob/main/images-svg/4108586.png"/> </P>
 </p>
  
